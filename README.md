@@ -11,4 +11,4 @@ In Every Folder, Individually run
 3) Launch the Shore and the Vessel Code
 
 Add files to the Send folder of Vessel to send files from Vessel to Shore. Similiar set up on the Shore side. 
-
+The files are transmitted via the Server from either end and received in the receiving folder on the other end. 
