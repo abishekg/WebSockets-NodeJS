@@ -1,0 +1,16 @@
+module.exports = {
+    shipReadyToSendValue: true,
+    shipReadyToReceiveValue: true,
+    connect: 'connect',
+    clientId: 10003,
+    shipReadyToSend: 'shipReadyToSend',
+    shipReadyToReceive: 'shipReadyToReceive',
+    disconnect: 'disconnect',
+    filesFromClient: 'filesFromClient',
+    filesToClient: 'filesToClient',
+    vessel2: 10002,
+    vessel1: 10001,
+    vessel4: 10004,
+    sendDirectory: __dirname + '\\communication\\sendFiles',
+    receiveDirectory: __dirname + '\\communication\\receivedFiles\\',
+}
