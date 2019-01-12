@@ -13,6 +13,7 @@ module.exports = {
     shipReadyToSend: 'shipReadyToSend',
     shipReadyToReceive: 'shipReadyToReceive',
     port: 8050,
+    url:'<insert server IP with its port>',
     disconnect: 'disconnect',
     filesFromClient: 'filesFromClient',
     filesToClient: 'filesToClient',

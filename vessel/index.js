@@ -119,3 +119,7 @@ async function directoryExists(folderPath) {
     console.log('error: ', error);
   }
 }
+
+app.listen(config.port, () => {
+  logger.info(`Server is up in port ${config.port}`);
+})

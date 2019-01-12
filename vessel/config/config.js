@@ -8,6 +8,8 @@ module.exports = {
     disconnect: 'disconnect',
     filesFromClient: 'filesFromClient',
     filesToClient: 'filesToClient',
+    port: 9000,
+    url: '<insert server IP with its port>',
     vessel2: 10002,
     vessel1: 10001,
     vessel4: 10004,
